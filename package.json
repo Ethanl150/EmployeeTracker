@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Ethanl150/EmployeeTracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
     "inquirer": "^7.0.6",
     "mysql": "^2.18.1"
   }
